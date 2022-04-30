@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is a place for experimental/discontinued projects of @rinsuki .
+This is a place for experimental/discontinued projects of [@rinsuki](https://github.com/rinsuki).
 
 If you want to use my code and can't find license, feel free to contact me! I will choose and add license for it.
